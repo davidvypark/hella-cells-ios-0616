@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "13161B00634DA6E6F3A62FBF982BEC4E432967A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : 0,
+    "13161B00634DA6E6F3A62FBF982BEC4E432967A4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9B3F001C-D943-47BC-BA30-8B7A855A98A0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : "",
+    "13161B00634DA6E6F3A62FBF982BEC4E432967A4" : "hella-cells-ios-0616\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HellaCells",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HellaCells.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/hella-cells-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "13161B00634DA6E6F3A62FBF982BEC4E432967A4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/objc-dictionary-ice-cream-001",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0"
+    }
+  ]
+}
